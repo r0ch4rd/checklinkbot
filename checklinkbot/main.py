@@ -2,11 +2,11 @@ import praw
 import re
 
 reddit = praw.Reddit(
-    client_id = "yPDyln-ZgS8diFhhcVRtZw",
-    client_secret = "v_dYfZmSEKXUOSHiBJZyZOTac0N9mA",
-    username = "CheckLinkBot",
-    password = "amogussussybaka",
-    user_agent = "CheckLinkBot"
+    client_id = "",
+    client_secret = "",
+    username = "",
+    password = "",
+    user_agent = ""
 )
 
 subreddit = reddit.subreddit("all")
